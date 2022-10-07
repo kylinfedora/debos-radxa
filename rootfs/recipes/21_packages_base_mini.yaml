@@ -2,7 +2,7 @@
     description: Base
     packages: [
         sudo, systemd, systemd-sysv, gdisk, parted, u-boot-tools,
-
+        locales,
         linux-base,
 
         initramfs-tools, util-linux, rfkill, file, findutils,
