@@ -45,11 +45,11 @@ cat > $BUILD_DIR/${BOARD}-${MODEL}-${DISTRO}-${VARIANT}-${ARCH}-${FORMAT}-yaml.l
 20_packages_start.yaml
 21_packages_base_mini.yaml
 21_packages_devel.yaml
-21_packages_libs.yaml
+21_packages_libs_mini.yaml
 21_packages_kernel.yaml
 21_packages_math.yaml
 21_packages_mpp.yaml
-21_packages_net.yaml
+21_packages_net_mini.yaml
 21_packages_utilities.yaml
 22_packages_end.yaml
 70_system_common_setup.yaml
