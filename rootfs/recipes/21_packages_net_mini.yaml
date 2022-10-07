@@ -1,0 +1,6 @@
+ - action: apt
+    description: Net
+    packages: [
+        isc-dhcp-client, avahi-utils, avahi-daemon, dhcpcd5, ethtool,
+        iproute2, iputils-ping, net-tools, ntp,
+        openssh-client, openssh-server, resolvconf, ssh ]
