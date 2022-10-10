@@ -4,4 +4,4 @@
         isc-dhcp-client, avahi-utils, avahi-daemon, dhcpcd5, ethtool,
         iproute2, iputils-ping, net-tools, network-manager, ntp,
         openssh-client, openssh-server, resolvconf,
-        ssh ]
+        ssh, curl, iptables, nftables ]
