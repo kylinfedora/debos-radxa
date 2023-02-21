@@ -12,7 +12,7 @@
         bc,
 
         net-tools, isc-dhcp-client, iputils-ping, network-manager,
-        openssh-client, openssh-server, ssh, bluez,
+        openssh-client, openssh-server, ssh,
 
         gnupg2,
 
