@@ -38,7 +38,7 @@ jobs:
         run: |
           ${GITHUB_WORKSPACE}/scripts/generate-matrix-include.sh \
           -b rock-5b \
-          -m debian,ubuntu \
+          -m debian \
           -v server >> $GITHUB_OUTPUT
     outputs:
       combinations: ${{ steps.combinations.outputs.combinations }}
